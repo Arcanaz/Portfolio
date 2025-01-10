@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Covert2ICO",
+    "imageSrc": "projects/Covert2ICO.png",
+    "description": "This project uses Svelte and Express. It takes a PNG or JPG and the backend converts the image to an ICO.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://convert2ico.netlify.app/",
+    "source": "https://github.com/Arcanaz/ico-converter-front"
+  },
+  {
+    "title": "Earth World Map",
+    "imageSrc": "projects/earthworld.png",
+    "description": "This project uses React and Maplib. It's an interactive map that gives facts based on the countries selected.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://earthworld.netlify.app/",
+    "source": "https://github.com/Arcanaz/interactive-map"
+  },
+  {
+    "title": "Vacation Destination",
+    "imageSrc": "projects/vacation.png",
+    "description": "This project allows for users to make and edit vacation destinations. Log in easily with username and password 'user'",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://yourdestination.fly.dev/",
+    "source": "https://github.com/Arcanaz/vacation-spot-site"
+  }
+]

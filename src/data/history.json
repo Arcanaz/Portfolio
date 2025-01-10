@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Florida International University",
+    "organisation": "",
+    "startDate": "2022",
+    "endDate": "2024",
+    "experiences": ["GPA3.4 / 4.0"],
+    "imageSrc": "history/fiu.png"
+  },
+  {
+    "role": "Broward College",
+    "organisation": "",
+    "startDate": "2020",
+    "endDate": "2022",
+    "experiences": ["GPA 3.5 / 4.0"],
+    "imageSrc": "history/broward2.jpg"
+  }
+]
